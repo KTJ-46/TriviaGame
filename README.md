@@ -1,4 +1,4 @@
-# TriviaGame
+# Trivia Game
 Trivia Game using JavaScript JQuery
 
 
